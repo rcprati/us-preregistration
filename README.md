@@ -30,6 +30,7 @@ To verify integrity: `shasum -a 256 -c preregistration_us_v1.sha256`, and compar
 
 ## Notes
 
+- The code for the paper's retrospective analyses (supplement S2–S9) is in a separate repository, created after the pre-registration tag: https://github.com/rcprati/us-forecast-replication. It is not part of this pre-registration.
 - The pre-registration cites an internal technical note (v47) for earlier-cycle results used as priors; that note is not part of this repository.
 - Third-party data (Split Ticket, The Downballot, JHK Forecasts) are used locally for research and are **not redistributed**; only their hashes appear here. The VoteHub polling API data are CC BY 4.0.
 ## Licence
